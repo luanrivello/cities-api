@@ -1,7 +1,5 @@
 package com.github.luanrivello.citiesapi.countries;
 
-import com.github.luanrivello.citiesapi.countries.Country;
-import com.github.luanrivello.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
